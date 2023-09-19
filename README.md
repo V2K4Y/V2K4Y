@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/v2k4y/v2k4y/blob/output/dist/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/V2K4Y/V2K4Y/blob/output/github-contribution-grid-snake.svg)
 
 ###
