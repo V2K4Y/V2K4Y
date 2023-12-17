@@ -51,6 +51,4 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/V2K4Y/V2K4Y/blob/output/github-contribution-grid-snake.svg)
-
 ###
