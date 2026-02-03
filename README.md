@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Vivek, a web developer with a passion for clean code, specializing in JavaScript, React, Node.js and Express.js. Always open to tackling new challenges and exploring cutting-edge technologies.</h2>
+<h2 align="left">Hi 👋! I'm Prateek, a web developer with a passion for clean code, specializing in JavaScript, React, Node.js and Express.js. Always open to tackling new challenges and exploring cutting-edge technologies.</h2>
 
 ###
 
